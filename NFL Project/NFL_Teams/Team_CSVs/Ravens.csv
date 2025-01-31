@@ -1,0 +1,18 @@
+Week,Offence,Defence,Score,Total drives,Passing Yards,Turnovers,Rushing,Sacks,Punts,3rd dwns Conv,3rd downs Att,4th downs Conv,4th downs Att,Line,Vegas_Expected_Score,Total_Points_Vegas
+1,Texans,Ravens,9,12,242,1,72,5,4,7,18,1,4,-9.5,16.5,42.5
+2,Bengals,Ravens,24,7,222,1,66,1,3,10,15,1,1,3.5,24,44.5
+4,Browns,Ravens,3,13,121,3,93,4,8,4,16,1,1,-2.5,17.5,37.5
+5,Steelers,Ravens,17,12,224,1,87,3,6,6,15,0,0,-4.5,16.5,37.5
+6,Titans,Ravens,16,10,150,2,129,6,5,1,9,0,0,-5.5,18,41.5
+7,Lions,Ravens,6,10,284,1,84,5,4,5,16,2,6,-3.5,20,43.5
+8,Cardinals,Ravens,24,13,208,2,129,2,4,5,12,0,2,-10.5,16.5,43.5
+9,Seahawks,Ravens,3,13,157,2,28,4,7,1,12,0,1,-5.5,19.5,44.5
+10,Browns,Ravens,33,10,213,2,178,4,2,8,16,1,2,-6.5,16,38.5
+11,Bengals,Ravens,20,11,169,0,136,5,5,2,11,1,1,-4.5,20.5,45.5
+12,Chargers,Ravens,10,11,217,4,86,3,3,7,15,1,3,-3.5,23,49.5
+15,Jaguars,Ravens,7,10,284,2,75,3,3,5,12,1,1,-4,18.75,41.5
+16,49ers,Ravens,19,11,336,5,121,4,2,6,14,1,3,6.5,27,47.5
+17,Dolphins,Ravens,19,9,258,1,97,3,3,6,15,2,4,-3.5,22,47.5
+18,Steelers,Ravens,17,12,152,2,155,3,6,6,15,0,0,3.5,19,34.5
+Divisional,Texans,Ravens,10,10,175,0,38,0,5,4,12,0,1,-9.5,17,43.5
+Conference,Chiefs,Ravens,17,11,241,0,89,2,6,8,18,1,2,-4.5,19.5,43.5
